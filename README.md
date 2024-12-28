@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AV Codecs and CUDA**
 
-- 📫 How to reach me **amlalelmahrouss@icloud.com**
+- 📫 How to reach me [https://www.linkedin.com/in/amlal-el-mahrouss-4791a6314/](https://www.linkedin.com/in/amlal-el-mahrouss-4791a6314/)
 
 </br>
 

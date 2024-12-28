@@ -1,5 +1,5 @@
 <h1 align="center">Amlal EL Mahrouss</h1>
-<h3 align="center">C/C++ Developper</h3>
+<h3 align="center">C/C++ Developer</h3>
 
 - 🔭 I’m currently working on **TQ**
 

@@ -2,4 +2,4 @@
 
 # Author of NeKernel.org
 
-📬 Open to full-time roles (remote or U.S.-based). Let’s talk! [Contact me here.](mailto:amlalelmahrouss@icloud.com)
+📬 Open to full-time roles (on-site U.S.-based). Let’s talk! [Contact me here.](mailto:amlalelmahrouss@icloud.com)

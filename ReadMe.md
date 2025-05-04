@@ -1,5 +1,8 @@
 ![Logo](./NEKERNEL_ORG.png)
 
-# Author of NeKernel.org
+# Author of [NeKernel.org](https://nekernel.org)
 
-📬 Open to full-time roles (on-site U.S.-based). Let’s talk! [Contact me here.](mailto:amlalelmahrouss@icloud.com)
+📬 Open to full-time, on-site roles in the U.S.  
+<br/>
+If you're open to sponsoring outside the H-1B path and supporting my NIW green card petition, let’s talk — [contact me here](mailto:amlalelmahrouss@icloud.com).
+

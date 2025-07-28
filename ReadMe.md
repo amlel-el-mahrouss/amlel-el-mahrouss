@@ -1,11 +1,13 @@
 ![Logo](./NEKERNEL_ORG.png)
 
-# Amlal El Mahrouss
-
 ## Author of: [NeKernel.org](https://nekernel.org)
 
-I've got a blog! Feel free to check it out: https://amlal.nekernel.org
+* https://nekernel.org
 
-### Funny joke:
+## Blog:
 
-A wise man said: Never make your own crypto library. You're gonna break encryption soon or later.
+* https://amlal.nekernel.org
+
+### Fun-Facts:
+
+A wise man said: Never make your own crypto library. You're gonna break encryption sooner or later.

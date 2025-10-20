@@ -1,13 +1,16 @@
 ![Logo](./NEKERNEL_ORG.png)
 
-## Author of: [NeKernel.org](https://nekernel.org)
+# Links
+
+## NeKernel.org
 
 * https://nekernel.org
+
+## SNU Systems
+
+* https://snupowered.com
 
 ## Blog:
 
 * https://amlal.nekernel.org
 
-### Fun Fact:
-
-A wise man said: Never make your own crypto library. You're gonna break encryption sooner or later.

@@ -5,17 +5,8 @@ Check out my work, or feel free to sponsor me!
 
 [![](https://img.shields.io/static/v1?label=Sponsor%20Me!&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/amlel-el-mahrouss)
 
-# Linklist:
-
-## NeKernel.org:
+# Links:
 
 * https://nekernel.org
-
-## SNUPowered:
-
-* https://snupowered.com
-
-## My Blog:
-
 * https://amlal.nekernel.org
 

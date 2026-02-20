@@ -6,6 +6,6 @@
 |------------------------|---------------------------|----------------------------------|
 | Open C++ Libraries | Libraries in Modern C++   | https://github.com/ocl-org/      |
 | NeKernel Project           | OS Stack in Modern C++ | https://github.com/nekernel-org/ |
-| Blog                   | My blog  | https://amlal.nekernel.org       |
+| Blog                   | Personal thoughts and blogging  | https://amlal.nekernel.org       |
 | NeKernel.org                | NeKernel.org      | https://nekernel.org             |
 | Open C++ Libraries.org                | NeKernel.org's Libraries      | https://ocl.nekernel.org             |

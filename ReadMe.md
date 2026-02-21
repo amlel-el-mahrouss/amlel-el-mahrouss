@@ -5,6 +5,6 @@
 | Name                   | Description               | Link                             |
 |------------------------|---------------------------|----------------------------------|
 | Open C++ Libraries | Libraries in Modern C++   | https://github.com/ocl-org/      |
-| NeKernel Project           | OS Stack in Modern C++ | https://github.com/nekernel-org/ |
+| NeKernel           | OS Stack in Modern C++ | https://github.com/nekernel-org/ |
 | Blog                   | Personal thoughts and blogging  | https://amlal.nekernel.org       |
-| NeKernel.org                | NeKernel.org      | https://www.nekernel.org             ||
+| NeKernel.org                | NeKernel.org      | https://www.nekernel.org             |

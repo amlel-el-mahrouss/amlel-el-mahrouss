@@ -2,9 +2,9 @@
 
 ## Active Projects:
 
+Feel free to follow and star them!
+
 | Name                   | Description               | Link                             |
 |------------------------|---------------------------|----------------------------------|
-| Open C++ Libraries | Libraries in Modern C++   | https://github.com/ocl-org/      |
-| NeKernel           | OS Stack in Modern C++ | https://github.com/nekernel-org/ |
-| Blog                   | Personal thoughts and blogging  | https://amlal.nekernel.org       |
-| NeKernel.org                | NeKernel.org      | https://www.nekernel.org             |
+| Open C++ Libraries.org | Libraries in Modern C++   | https://github.com/ocl-org/      |
+| Ne.org           | Systems Stack in Modern C++ | https://github.com/nekernel-org/ |

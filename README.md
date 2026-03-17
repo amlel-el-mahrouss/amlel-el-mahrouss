@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 I'm a systems developer specializing in C++ and Systems Design from France!
 
-- 🔭 I’m currently working on @ne-foss-org.
+- 🔭 I’m currently working on [@ne-foss-org](https://github.com/ne-foss-org/).
 - 🌱 I’m currently learning Rust and Abseil.
 - 👯 I’m looking to collaborate on infra projects.
 - 🤔 I’m looking for help with systems design and API design.

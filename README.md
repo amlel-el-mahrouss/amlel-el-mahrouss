@@ -4,7 +4,7 @@
 
 I'm a Systems Engineer specializing in C++ and Systems Design.
 
-- 🔭 I’m currently working on [@ne-foss-org](https://github.com/ne-foss-org/).
+- 🔭 I’m currently working on [@ne-foss-org](https://github.com/ne-foss-org/) and adjacent work.
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me: amlalelmahrouss@icloud.com
 - 😄 Pronouns: he/him

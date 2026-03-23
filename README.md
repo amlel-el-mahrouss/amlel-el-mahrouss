@@ -2,12 +2,13 @@
 
 <!-- Looks cool to me :) -->
 
-I'm a Systems Engineer specializing in C++ and Systems Design from France!
+I'm a Systems Engineer specializing in C++ and Systems Design.
 
 - 🔭 I’m currently working on [@ne-foss-org](https://github.com/ne-foss-org/).
-- 🌱 I’m currently learning Rust and Abseil.
+- 🌱 I’m currently learning Rust.
 - 📫 How to reach me: amlalelmahrouss@icloud.com
 - 😄 Pronouns: he/him
 
-[![Amlal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amlel-el-mahrouss)](https://github.com/amlel-el-mahrouss/github-readme-stats)
+## Some stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amlel-el-mahrouss)](https://github.com/anuraghazra/github-readme-stats)

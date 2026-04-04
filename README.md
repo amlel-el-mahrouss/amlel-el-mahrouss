@@ -4,7 +4,7 @@
 
 I'm a Software Engineer/PL Designer specializing in C++, Computer Architecture, and Systems Design.
 
-- 🔭 I’m currently working on [@ne-foss-org](https://github.com/ne-foss-org/) and adjacent work.
+- 🔭 I’m currently working on Ne.app.
 - 📫 How to reach me: amlalelmahrouss@icloud.com
 - 😄 Pronouns: he/him
 

@@ -5,3 +5,5 @@ I'm a Systems Engineer/PL Designer specializing in C++, Computer Architecture, a
 - 🔭 I’m currently working on Ne.app. @ne-app, @ne-foss, @ne-foss. We make libraries and systems software, check it out!.
 - 📫 How to reach me: amlalelmahrouss@icloud.com
 - 😄 Pronouns: he/him
+- 💵 Sponsor me on GitHub! It helps me going on with my work :-)
+  
